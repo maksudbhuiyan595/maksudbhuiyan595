@@ -15,7 +15,7 @@
     <a href="https://www.google.com/search?q=Maksud+Bhuiyan">「 Google Me 」</a>
     <br>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&width=435&lines=A+Front-End+Developer+And+WordPress+Expert;3%2B+Years+of+Programming+Experience;Always+Excited+to+Learn+New+Things" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&width=435&lines=A+Backend+%26+Full-Stack+Developer;3%2B+Years+of+Programming+Experience;Always+Excited+to+Learn+New+Things" alt="Typing SVG" />
     </a>
     <br>
     <br>
