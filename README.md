@@ -76,7 +76,7 @@
 
 - [**Chat Application**](https://github.com/maksudbhuiyan595/chat-application)
 - [**React Quiz App**](https://github.com/maksudbhuiyan595/react-quiz-app)
-- [**Marvel Movies App**](https://github.com/maksudbhuiyan595/marvel-movies-app)
+
 
 <p align="left">
   <a href="https://github.com/maksudbhuiyan595?tab=repositories" target="_blank">
