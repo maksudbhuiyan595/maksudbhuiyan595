@@ -74,7 +74,6 @@
 
 ## Top Open Source Projects
 
-- [**Video Website Using RTK Query**](https://github.com/maksudbhuiyan595/video-website-using-rtk-query)
 - [**Chat Application**](https://github.com/maksudbhuiyan595/chat-application)
 - [**React Quiz App**](https://github.com/maksudbhuiyan595/react-quiz-app)
 - [**Marvel Movies App**](https://github.com/maksudbhuiyan595/marvel-movies-app)
