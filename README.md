@@ -43,8 +43,9 @@
 ## Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,sass,tailwind,bootstrap,redux,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,php,laravel,html,css,js,react,nextjs,bootstrap,tailwind" />
 </p>
+
 
 <br/>
 
