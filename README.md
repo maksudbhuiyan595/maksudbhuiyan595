@@ -32,7 +32,7 @@
   
  ✌️ &emsp; Passionate about programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love writing code and exploring new technologies<br/><br/>
- ✉️ &emsp; <b>Mail:</b> <a href="mailto:maksudbhuiyan595@gmail.com">maksudbhuiyan595@gmail.com</a><br/><br/>
+ ✉️ &emsp; <b>Mail:</b> <a href="mailto:maksudbhuiyan595@gmail.com">mdmaksudbhuiyan595@gmail.com</a><br/><br/>
 
 </p>
 
